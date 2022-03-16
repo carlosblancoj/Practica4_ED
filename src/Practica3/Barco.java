@@ -4,6 +4,7 @@
  */
 package Practica3;
 
+import newpackage.ISonido;
 import java.util.Date;
 
 public class Barco implements ISonido {

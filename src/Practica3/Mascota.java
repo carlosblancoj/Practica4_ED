@@ -4,6 +4,8 @@
  */
 package Practica3;
 
+import newpackage.ISonido;
+
 public abstract class Mascota implements ISonido {
     
     private String nombre = new String();
